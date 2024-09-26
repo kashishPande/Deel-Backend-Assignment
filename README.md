@@ -79,4 +79,8 @@ Below is a list of the required API's for the application.
     }
 ]
 ```
+## Test In Local
+Download the postmanCollection and test the api's in local 
+## SQL Online IDE
+https://sqliteonline.com/ for refering the tables created  
 
